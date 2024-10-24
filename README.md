@@ -11,7 +11,8 @@ Program ini dibuat menggunakan bahasa Python dengan fitur:
 - Membandingkan setiap input dengan nilai maksimum yang tersimpan
 - Menampilkan bilangan terbesar yang ditemukan
 
- ## Flowchart Program
+ ## Flowchart
+ ![FlowChart](Praktikum/FlowChart.png)
 
  ## Kode Programan
  ```python
