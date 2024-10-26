@@ -28,12 +28,14 @@ print(f'bilangan terbesar: {bilangan_max}')
 ```
  ## Contoh Output
 ```bash
-masukan bilangan :200
-masukan bilangan :500
-masukan bilangan :6969
-masukan bilangan :2000
-masukan bilangan :0
-bilangan terbesar= 6969
+PS C:\Users\gtm42\OneDrive\Dokumen\piton> python -u "c:\Users\gtm42\OneDrive\Dokumen\piton\Praktikum3.py"
+masukkan bilangan:200
+masukkan bilangan:5654
+masukkan bilangan:3842
+masukkan bilangan:6969
+masukkan bilangan:2111
+masukkan bilangan:0
+bilangan terbesar: 6969
 ```
 
 ## cara kerja program
